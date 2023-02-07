@@ -3,7 +3,7 @@ import java.time.LocalDate;
 import java.time.Period;
 import java.time.format.DateTimeFormatter;
 
-public class Main {
+public class TotalNumberOfDays {
   public static void main(String[] args) {
     String startDate = "20170220";
     String endDate = "20211224";
