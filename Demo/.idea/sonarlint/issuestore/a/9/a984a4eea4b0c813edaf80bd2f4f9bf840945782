@@ -1,0 +1,28 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÊÇÍ
+]	java:S125."<This block of commented-out lines of code should be removed.(ÑÀßèùÿÿÿÿ8é»º™à0
+^
+java:S1128"CRemove this unused import 'io.restassured.config.ConnectionConfig'.(ˆÌéÊûÿÿÿÿ
+R
+java:S1128"<Remove this unused import 'io.restassured.http.ContentType'.(ïè‘
+R
+java:S1128"7Remove this unused import 'io.restassured.http.Header'.(ÌÒàòşÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'io.restassured.http.Headers'.(Ñ‚‡àıÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'org.openqa.selenium.Cookie'.(çŞéëùÿÿÿÿ
+P
+java:S1128":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ
+\
+java:S1128"ARemove this unused import 'java.security.KeyManagementException'.(ë¢ö§ıÿÿÿÿ
+R
+java:S1128"<Remove this unused import 'java.security.KeyStoreException'.(Ë¾¬œ
+^
+java:S1128"CRemove this unused import 'java.security.NoSuchAlgorithmException'.(ŒòÍ¾şÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ

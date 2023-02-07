@@ -1,0 +1,4 @@
+com\demo\components\common\Login.class
+com\demo\components\connection\ConnectJDBC.class
+com\demo\components\base\WebDriverCore.class
+com\demo\components\common\CreateUser.class
