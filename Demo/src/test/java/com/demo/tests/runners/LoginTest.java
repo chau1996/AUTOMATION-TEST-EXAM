@@ -11,9 +11,9 @@ public class LoginTest extends MainTest {
 
   @Test(priority = 0)
   public void testSuccessfulLogin() {
-    driver.findElement(By.name("email")).sendKeys("user@phptravels.com");
-    driver.findElement(By.name("password")).sendKeys("demouser");
-    driver.findElement(By.xpath("//button[@type='submit']")).click();
+    driver.findElement(By.name("email")).sendKeys("user1@phptravels.com");
+    driver.findElement(By.name("password")).sendKeys("demouser1");
+    driver.findElement(By.xpath("//span[normalize-space()='Login']")).click();
     String username = driver.findElement(By.xpath("//h2[contains(text(),'Hi,')]")).getText();
 
     if (username.equals("Hi, Demo Welcome Back")) {
